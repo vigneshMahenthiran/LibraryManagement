@@ -1,5 +1,5 @@
 package library;
-
+//Library Details
 public class Library {
 	static int[] bookAvailable = {2,2,2,2,2};
 	static String[] bookName= {"maths", "science", "socialscience" ,"tamil", "english"};
